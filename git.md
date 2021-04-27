@@ -4,5 +4,4 @@
 # In Local Git Repository
 * git add . (Untracked Files/Modified files => Staged Files)
 * git commit -m "message" (Put the Checkpoint on the Code)
-* git log (Shows the History of All the Commits )
-
+* git log (Shows the History of All the Commits )*
