@@ -1,3 +1,6 @@
-#Git Steps
+# Git Steps
 
-#when creating a new git repository
+# When Creating A New Git Repository
+* git init (Initializes the Empty git Repository)
+
+# In Local Git Repository
